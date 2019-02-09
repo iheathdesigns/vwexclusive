@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_rs_gallery" value="name:id;datatype:int,name:file_name;datatype:string,name:alt;datatype:string,name:width;datatype:string,name:height;datatype:string,name:date_created;datatype:datetime,name:date_modified;datatype:timestamp,name:publish;datatype:string" /></info>
